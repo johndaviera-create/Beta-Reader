@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beta Reader"
+  short_description: "Read fiction for clarity, pacing, stakes, and emotional impact"
+  default_prompt: "Use $beta-reader to give a first-time reader response to my draft."
